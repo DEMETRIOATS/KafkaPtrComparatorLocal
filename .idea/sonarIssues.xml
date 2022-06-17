@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/example/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/example/CustomSerdes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/example/MetricValue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/lib-epmqaproc-model/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/lib-epmqaproc-model/src/main/java/com/inditex/ofda/epmlqsrc/model/commons/JdbcConnector.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/lib-epmqaproc-model/src/main/java/com/inditex/ofda/epmlqsrc/model/config/DatabaseResultCount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/lib-epmqaproc-model/src/main/java/com/inditex/ofda/epmlqsrc/model/config/MeasurementParams.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/lib-epmqaproc-model/src/main/java/com/inditex/ofda/epmlqsrc/model/service/DatabaseProbe.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/lib-epmqaproc-model/src/main/java/com/inditex/ofda/epmlqsrc/model/service/KafkaMirror.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/lib-epmqaproc-model/src/main/java/com/inditex/ofda/epmlqsrc/model/service/KafkaProbe.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/lib-epmqaproc-model/src/main/java/com/inditex/ofda/epmlqsrc/model/transformer/DeduplicationTransformer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/lib-epmqaproc-model/src/main/java/com/inditex/ofda/epmlqsrc/model/utils/DatabaseUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/lib-epmqaproc-model/src/main/java/com/inditex/ofda/epmlqsrc/model/utils/MeasurementUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/lib-epmqaproc-model/src/main/java/com/inditex/ofda/epmlqsrc/model/utils/TimeUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/lib-epmqaproc-model/src/test/java/com/inditex/ofda/epmlqsrc/model/commons/MeasurementProducerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/lib-epmqaproc-model/src/test/java/com/inditex/ofda/epmlqsrc/model/service/DatabaseProbeTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/lib-epmqaproc-model/src/test/java/com/inditex/ofda/epmlqsrc/model/service/KafkaProbeTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/lib-epmqaproc-model/src/test/java/com/inditex/ofda/epmlqsrc/model/utils/DatabaseUtilsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lib-epmqaproc/code/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test-generator/test-gen/src/main/resources/config/base-config.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wsc-epmsourcemetricsqaproccesor/code/appwsc-epmsourcemetricsqaprocessordth-boot/src/main/resources/application-standalone.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wsc-epmsourcemetricsqaproccesor/code/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wsc-epmvaultmetricsqaprocessordth/code/appwsc-epmvaultmetricsqaprocessordth-boot/src/main/resources/application-standalone.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wsc-epmvaultmetricsqaprocessordth/code/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wsd-epmmeasuresmirror/code/epmmeasuresmirror-boot/src/main/resources/application-standalone.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wsd-epmmeasuresmirror/code/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
