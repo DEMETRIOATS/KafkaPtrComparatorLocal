@@ -16,6 +16,7 @@
     {
       "name": "value",
       "type": [
+        "null",
         "string",
         {
           "type": "array",
@@ -26,6 +27,7 @@
           "values": "string"
         }
       ],
+      "default": null,
       "doc": "Default measure value: I.e. 142"
     },
     {

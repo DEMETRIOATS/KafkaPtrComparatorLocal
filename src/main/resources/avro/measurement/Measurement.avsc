@@ -6,7 +6,11 @@
   "fields": [
     {
       "name": "id",
-      "type": "string",
+      "type": [
+        "null",
+        "string"
+      ],
+      "default": null,
       "doc": "Measurement Unique ID (same id for same measure taken at different times). I.e. '47FD3377ACF179BA15ED7B7ABC6551E3'"
     },
     {
@@ -17,23 +21,6 @@
       ],
       "default": null,
       "doc": "Timestamp of the moment in which the measurement was carried out. I.e. '2021-03-24 10:54:27.123Z'"
-    },
-    {
-      "name": "eventName",
-      "type": [
-        "null",
-        {
-          "name": "EventName",
-          "type": "enum",
-          "symbols": [
-            "MEASURE_CREATED",
-            "MEASURE_UPDATED",
-            "MEASURE_DELETED"
-          ]
-        }
-      ],
-      "default": null,
-      "doc": "Kind of event. I.e. MEASURE_CREATED"
     },
     {
       "name": "version",
@@ -77,8 +64,8 @@
         "name": "MeasureType",
         "type": "enum",
         "symbols": [
-          "INSTANT",
-          "WINDOWED"
+          "SNAPSHOT",
+          "WINDOW"
         ]
       },
       "doc": "Type of measurement timeframe. I.e. 'INSTANT'"
