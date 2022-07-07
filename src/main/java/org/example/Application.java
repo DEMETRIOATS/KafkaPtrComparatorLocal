@@ -22,9 +22,9 @@ import org.apache.kafka.streams.state.KeyValueStore;
 
 public class Application {
 
-  private static final String KAFKA_INPUT_TOPIC = "comercial-dev-za.coreanalyticsQaMeasurements.kafkaProbe.v2";
+  private static final String KAFKA_INPUT_TOPIC = "comercial-dev-za.coreanalyticsQaMeasurements.kafkaProbe.v3";
 
-  private static final String PTR_INPUT_TOPIC = "comercial-dev-za.coreanalyticsQaMeasurements.databaseProbe.v2";
+  private static final String PTR_INPUT_TOPIC = "comercial-dev-za.coreanalyticsQaMeasurements.databaseProbe.v3";
 
   private static final Map<String, Object> kafkaConfig = Map.of(
       "bootstrap.servers", "localhost:9092",
